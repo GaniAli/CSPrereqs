@@ -24,7 +24,7 @@ Probabilistic algorithms.
 
 For a lot of problems
 
-## Hardware
+## Low level
 
 ### Boolean arithmetics and logic circuits
 
@@ -118,7 +118,7 @@ What connectors are there?
 
 What is a bus?
 
-## Software
+## High Level
 
 ### Automata 
 
@@ -164,7 +164,55 @@ Where do library headers go?
 
 Where do binaries go?
 
-### How to use terminal
+### Ubuntu
+
+Installing it, using live USB, partitioning schemes, dual booting windows.
+
+### How to use terminal on Ubuntu
+
+What are built-in instructions?
+
+How to list files in a directory?
+
+How to navigate directories?
+
+How to move/copy/remove files/directories? 
+
+How to pipe commands?
+
+How to remove all images from a directory?
+
+How to mass rename files?
+
+What is sudo? What is a root user?
+
+How to add user to sudoers group?
+
+How to give a user ownership of a file/directory?
+
+How to change file permissions?
+
+How to edit file with vi(m) or nano?
+
+What is `PATH`, how to edit `PATH` using `bash_profile`?
+
+What is a tty? How to switch to a new tty?
+
+What is regex? How to use grep?
+
+What is inode? 
+
+How to keep system up to date?
+
+How to manage packages?
+
+How to install a package from a third-party repository?
+
+How to build a package from sources? What are makefiles?
+
+How to view system logs?
+
+How to compile C++?
 
 ### C++
 
